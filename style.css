@@ -1,0 +1,38 @@
+.jumbotron {
+  background-image: url(img/what.jpg);
+  background-position: center;
+  background-size: cover;
+  padding-bottom: 600px;
+}
+
+#about {
+  padding-top: 30px;
+  background-image: url(img/anjay.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 400px;
+}
+
+.about p {
+  max-width: 700px; /* atur lebar maksimum pada 600px */
+  margin: 0 auto; /* posisikan teks di tengah */
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#price {
+  padding-top: 30px;
+  background-image: url(img/price4.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 500px;
+}
+
+footer {
+  background-color: #423636;
+  padding-bottom: 1px;
+}
